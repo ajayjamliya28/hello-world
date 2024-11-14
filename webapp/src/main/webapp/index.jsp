@@ -32,6 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning  Ajay Jamliya! </h1>
+   <h1> Thankyou, Happy Learning  Ajay Jamliya! </h1>
 
   
 </form>
