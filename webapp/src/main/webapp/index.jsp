@@ -37,7 +37,7 @@
    <h1> Thankyou, Happy Learning  Ajay! Ansible  </h1>
   <h1> Thankyou, Happy Learning  Ajay! Ansible deployning Artifact </h1>
 
-  <h3> Thankyou, Happy Learning  Ajay! yeah deployed on k8s </h3>
+  <h3> Thankyou, Happy Learning  Ajay! yeah deployed on kubernetes </h3>
 
 
   
